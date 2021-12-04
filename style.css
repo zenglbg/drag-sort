@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid orange;
+  cursor: pointer;
+}
+
+.item {
+  width: 25%;
+  height: 80px;
+  background-color: pink;
+  border: 1px solid black;
+  box-sizing: border-box;
+  text-align: center;
+  line-height: 80px;
+  vertical-align: middle;
+}
